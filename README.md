@@ -13,3 +13,6 @@ npm install
 npm run serve
 ```
 Une fois le serveur lancé, ouvrez un navigateur et rendez vous sur : localhost:8080
+
+## Precisions
+le jeu n'a pas de fin, le NFC n'est pas encore implémenté.
