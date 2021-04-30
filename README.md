@@ -16,3 +16,5 @@ Une fois le serveur lancé, ouvrez un navigateur et rendez vous sur : localhost:
 
 ## Precisions
 le jeu n'a pas de fin, le NFC n'est pas encore implémenté.
+
+Lien pour tester le jeu : https://escape-rick.netlify.app/
