@@ -10,5 +10,6 @@ npm install
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run serve
 ```
+Une fois le serveur lancé, ouvrez un navigateur et rendez vous sur : localhost:8080
